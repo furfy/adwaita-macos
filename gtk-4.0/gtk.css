@@ -1,0 +1,54 @@
+windowcontrols button
+{
+	min-width: 20px;
+	min-height: 20px;
+	-gtk-icon-size: 0;
+}
+
+windowcontrols button.close image
+{
+	background: #fc5753;
+	box-shadow: 0 0 3px #fc575380;
+}
+
+windowcontrols button.close:hover image
+{
+	background: #df4744;
+}
+
+windowcontrols button.close:active image
+{
+	background: #7e2c2a;
+}
+
+windowcontrols button.minimize image
+{
+	background: #fdbc40;
+	box-shadow: 0 0 3px #fdbc4080;
+}
+
+windowcontrols button.minimize:hover image
+{
+	background: #db9c33;
+}
+
+windowcontrols button.minimize:active image
+{
+	background: #7f5e20;
+}
+
+windowcontrols button.maximize image
+{
+	background: #36c84b;
+	box-shadow: 0 0 3px #36c84b80;
+}
+
+windowcontrols button.maximize:hover image
+{
+	background: #27aa35;
+}
+
+windowcontrols button.maximize:active image
+{
+	background: #1b6426;
+}
