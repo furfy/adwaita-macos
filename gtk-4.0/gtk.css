@@ -7,48 +7,66 @@ windowcontrols button
 
 windowcontrols button.close image
 {
-	background: #fc5753;
-	box-shadow: 0 0 3px #fc575380;
+	background: #f55;
+	box-shadow: 0 0 3px #ff555580;
 }
 
 windowcontrols button.close:hover image
 {
-	background: #df4744;
+	background: #d44;
 }
 
 windowcontrols button.close:active image
 {
-	background: #7e2c2a;
+	background: #722;
+}
+
+windowcontrols button.close:backdrop image
+{
+	background: #80808080;
+	box-shadow: 0 0 3px #80808080;
 }
 
 windowcontrols button.minimize image
 {
-	background: #fdbc40;
-	box-shadow: 0 0 3px #fdbc4080;
+	background: #fb4;
+	box-shadow: 0 0 3px #ffbb4480;
 }
 
 windowcontrols button.minimize:hover image
 {
-	background: #db9c33;
+	background: #d93;
 }
 
 windowcontrols button.minimize:active image
 {
-	background: #7f5e20;
+	background: #752;
+}
+
+windowcontrols button.minimize:backdrop image
+{
+	background: #80808080;
+	box-shadow: 0 0 3px #80808080;
 }
 
 windowcontrols button.maximize image
 {
-	background: #36c84b;
-	box-shadow: 0 0 3px #36c84b80;
+	background: #3c4;
+	box-shadow: 0 0 3px #33cc4480;
 }
 
 windowcontrols button.maximize:hover image
 {
-	background: #27aa35;
+	background: #2a3;
 }
 
 windowcontrols button.maximize:active image
 {
-	background: #1b6426;
+	background: #162;
+}
+
+windowcontrols button.maximize:backdrop image
+{
+	background: #80808080;
+	box-shadow: 0 0 3px #80808080;
 }

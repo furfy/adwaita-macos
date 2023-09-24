@@ -14,66 +14,66 @@ button.titlebutton image
 
 button.titlebutton.close
 {
-	background: #fc5753;
-	box-shadow: 0 0 2px rgba(252, 87, 83, 0.5);
+	background: #f55;
+	box-shadow: 0 0 2px rgba(0xff, 0x55, 0x55, 0.5);
 }
 
 button.titlebutton.close:hover
 {
-	background: #df4744;
+	background: #d44;
 }
 
 button.titlebutton.close:active
 {
-	background: #7e2c2a;
+	background: #722;
 }
 
 button.titlebutton.close:backdrop
 {
-	background: rgba(252, 87, 83, 0.5);
-	box-shadow: 0 0 2px rgba(252, 87, 83, 0.25);
+	background: rgba(0x80, 0x80, 0x80, 0.25);
+	box-shadow: 0 0 2px rgba(0x80, 0x80, 0x80, 0.25);
 }
 
 button.titlebutton.minimize
 {
-	background: #fdbc40;
-	box-shadow: 0 0 2px rgba(253, 188, 64, 0.5);
+	background: #fb4;
+	box-shadow: 0 0 2px rgba(0xff, 0xbb, 0x44, 0.5);
 }
 
 button.titlebutton.minimize:hover
 {
-	background: #db9c33;
+	background: #d93;
 }
 
 button.titlebutton.minimize:active
 {
-	background: #7f5e20;
+	background: #752;
 }
 
 button.titlebutton.minimize:backdrop
 {
-	background: rgba(253, 188, 64, 0.5);
-	box-shadow: 0 0 2px rgba(253, 188, 64, 0.25);
+	background: rgba(0x80, 0x80, 0x80, 0.25);
+	box-shadow: 0 0 2px rgba(0x80, 0x80, 0x80, 0.25);
 }
 
 button.titlebutton.maximize
 {
-	background: #36c84b;
-	box-shadow: 0 0 2px rgba(54, 200, 75, 0.5);
+	background: #3c4;
+	box-shadow: 0 0 2px rgba(0x33, 0xcc, 0x44, 0.5);
 }
 
 button.titlebutton.maximize:hover
 {
-	background: #27aa35;
+	background: #2a3;
 }
 
 button.titlebutton.maximize:active
 {
-	background: #1b6426;
+	background: #162;
 }
 
 button.titlebutton.maximize:backdrop
 {
-	background: rgba(54, 200, 75, 0.5);
-	box-shadow: 0 0 2px rgba(54, 200, 75, 0.25);
+	background: rgba(0x80, 0x80, 0x80, 0.25);
+	box-shadow: 0 0 2px rgba(0x80, 0x80, 0x80, 0.25);
 }
